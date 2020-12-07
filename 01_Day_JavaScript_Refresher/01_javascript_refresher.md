@@ -335,6 +335,11 @@ const arr = Array()
 // let arr = new Array()
 console.log(arr) // []
 console.log(arr.push())
+console.log(arr.pop()) 
+console.log(arr.shift()) 
+console.log(arr.unshift()) 
+console.log(arr.slice(0,-1)) 
+
 ```
 
 - Using square brackets([])
