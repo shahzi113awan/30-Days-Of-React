@@ -286,7 +286,7 @@ console.log('Hello, World!')
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Multiple External Scripts</title>
+    <title>Multiple External</title>
   </head>
   <body>
     <script src="./helloworld.js"></script>
@@ -334,6 +334,7 @@ const arr = Array()
 // or
 // let arr = new Array()
 console.log(arr) // []
+console.log(arr.push())
 ```
 
 - Using square brackets([])
